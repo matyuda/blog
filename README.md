@@ -1,2 +1,3 @@
-# blog
-manage blog data for Zenn
+# はじめてのGibHubとの連携ブログ
+
+GitHubのリポジトリに書いた内容がZennで表示されるかどうか確認してみる
